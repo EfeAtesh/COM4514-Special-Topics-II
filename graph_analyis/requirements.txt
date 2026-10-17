@@ -1,0 +1,8 @@
+neo4j
+pandas
+networkx
+matplotlib
+scikit-learn
+numpy
+py2neo
+pykeen
